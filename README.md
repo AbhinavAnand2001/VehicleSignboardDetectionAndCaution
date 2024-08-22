@@ -1,4 +1,4 @@
-# VehicleSignboardDetectionAndCautio
+# VehicleSignboardDetectionAndCaution
 The project is designed to enhance road safety by automatically detecting traffic signboards using computer vision techniques. The system alerts the driver or the vehicle's autonomous control system about the presence of important signboards enabling prompt actions that reduce the risk of accidents.
 Description
 The "Vehicle Signboard Detection and Caution" project is designed to enhance road safety by automatically detecting traffic signboards using computer vision techniques. The system alerts the driver or the vehicle's autonomous control system about the presence of important signboards, such as speed limits, stop signs, or pedestrian crossings, enabling prompt actions that reduce the risk of accidents.
